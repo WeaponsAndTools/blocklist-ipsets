@@ -1,0 +1,146 @@
+[
+	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 54521,
+		"common": 13
+	},
+	{
+		"name": "ciarmy",
+		"category": "reputation",
+		"ips": 15000,
+		"common": 8
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 85943981,
+		"common": 2
+	},
+	{
+		"name": "dataplane_dnsrd",
+		"category": "attacks",
+		"ips": 198,
+		"common": 21
+	},
+	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 2
+	},
+	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 7424,
+		"common": 2
+	},
+	{
+		"name": "dshield_30d",
+		"category": "attacks",
+		"ips": 25088,
+		"common": 2
+	},
+	{
+		"name": "dshield_7d",
+		"category": "attacks",
+		"ips": 12544,
+		"common": 2
+	},
+	{
+		"name": "dshield_top_1000",
+		"category": "attacks",
+		"ips": 904,
+		"common": 1
+	},
+	{
+		"name": "et_block",
+		"category": "attacks",
+		"ips": 20424332,
+		"common": 2
+	},
+	{
+		"name": "et_dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 2
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 640470669,
+		"common": 2
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 36699,
+		"common": 3
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 49897,
+		"common": 9
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 3747,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 639382183,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 15000,
+		"common": 10
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227848212,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346499707,
+		"common": 3
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 2893,
+		"common": 1
+	},
+	{
+		"name": "taichung",
+		"category": "attacks",
+		"ips": 15406,
+		"common": 2
+	},
+	{
+		"name": "threatcrowd",
+		"category": "malware",
+		"ips": 6431,
+		"common": 1
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 13826,
+		"common": 7
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 51005,
+		"common": 1
+	}
+]

@@ -1,0 +1,44 @@
+[
+	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 56861,
+		"common": 1
+	},
+	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 449,
+		"common": 1
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 641556128,
+		"common": 1
+	},
+	{
+		"name": "hphosts_ats",
+		"category": "organizations",
+		"ips": 14918,
+		"common": 1
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 36180,
+		"common": 1
+	},
+	{
+		"name": "hphosts_fsa",
+		"category": "reputation",
+		"ips": 28783,
+		"common": 1
+	},
+	{
+		"name": "hphosts_psh",
+		"category": "reputation",
+		"ips": 42404,
+		"common": 1
+	}
+]

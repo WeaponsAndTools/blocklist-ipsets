@@ -1,0 +1,16 @@
+{
+	"ipset": "blocklist_de_imap",
+	"started": 1434698048000,
+	"updated": 1528021240000,
+	"incomplete": 0,
+	"past": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	},
+	"current": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	}
+}

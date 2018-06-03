@@ -1,0 +1,16 @@
+{
+	"ipset": "nixspam",
+	"started": 000,
+	"updated": 1528020902000,
+	"incomplete": 0,
+	"past": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	},
+	"current": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	}
+}

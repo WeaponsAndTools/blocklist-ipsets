@@ -1,0 +1,16 @@
+{
+	"ipset": "firehol_level3",
+	"started": 1434699003000,
+	"updated": 1528021288000,
+	"incomplete": 0,
+	"past": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	},
+	"current": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	}
+}

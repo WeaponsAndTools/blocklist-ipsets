@@ -1,0 +1,18 @@
+{
+	"ipset": "esentire_ebankoalalusys_ru",
+	"started": 1462233106000,
+	"updated": 1527937328000,
+	"incomplete": 1,
+	"past": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	},
+	"current": {
+		"hours": [ 
+			18251 ],
+		"ips": [ 
+			898 ],
+		"total": 898
+	}
+}

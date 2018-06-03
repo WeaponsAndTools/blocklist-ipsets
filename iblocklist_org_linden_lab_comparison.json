@@ -1,0 +1,38 @@
+[
+	{
+		"name": "dronebl_ddos_drones",
+		"category": "attacks",
+		"ips": 381442,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_isp_att",
+		"category": "organizations",
+		"ips": 55845128,
+		"common": 8
+	},
+	{
+		"name": "iblocklist_isp_qwest",
+		"category": "organizations",
+		"ips": 15777552,
+		"common": 8
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762751166,
+		"common": 23600
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346499707,
+		"common": 1024
+	},
+	{
+		"name": "iblocklist_org_blizzard",
+		"category": "organizations",
+		"ips": 16795139,
+		"common": 8
+	}
+]

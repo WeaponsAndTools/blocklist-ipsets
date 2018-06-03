@@ -1,0 +1,44 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 11799,
+		"common": 8
+	},
+	{
+		"name": "bi_named_0_1d",
+		"category": "attacks",
+		"ips": 8,
+		"common": 8
+	},
+	{
+		"name": "hphosts_psh",
+		"category": "reputation",
+		"ips": 42357,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_isp_twc",
+		"category": "organizations",
+		"ips": 15015936,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_isp_verizon",
+		"category": "organizations",
+		"ips": 18087936,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762751166,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346499707,
+		"common": 1
+	}
+]

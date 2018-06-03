@@ -1,0 +1,16 @@
+{
+	"ipset": "ransomware_cryptowall_ps",
+	"started": 000,
+	"updated": 1528004102000,
+	"incomplete": 0,
+	"past": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	},
+	"current": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	}
+}

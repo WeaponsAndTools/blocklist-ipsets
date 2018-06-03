@@ -1,0 +1,32 @@
+[
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 85943981,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762751166,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_yoyo_adservers",
+		"category": "organizations",
+		"ips": 11539,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34512268,
+		"common": 1
+	},
+	{
+		"name": "yoyo_adservers",
+		"category": "organizations",
+		"ips": 11891,
+		"common": 1
+	}
+]

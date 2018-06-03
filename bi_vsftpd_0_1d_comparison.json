@@ -1,0 +1,140 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 11799,
+		"common": 12
+	},
+	{
+		"name": "bi_ftp_0_1d",
+		"category": "attacks",
+		"ips": 412,
+		"common": 12
+	},
+	{
+		"name": "bi_proftpd_0_1d",
+		"category": "attacks",
+		"ips": 316,
+		"common": 5
+	},
+	{
+		"name": "bi_pureftpd_0_1d",
+		"category": "attacks",
+		"ips": 56,
+		"common": 2
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 26385,
+		"common": 8
+	},
+	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 828,
+		"common": 8
+	},
+	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 6230,
+		"common": 2
+	},
+	{
+		"name": "cleantalk_1d",
+		"category": "abuse",
+		"ips": 13090,
+		"common": 7
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 192445,
+		"common": 7
+	},
+	{
+		"name": "cleantalk_7d",
+		"category": "abuse",
+		"ips": 66904,
+		"common": 7
+	},
+	{
+		"name": "cleantalk_new_1d",
+		"category": "abuse",
+		"ips": 799,
+		"common": 2
+	},
+	{
+		"name": "cleantalk_new_7d",
+		"category": "abuse",
+		"ips": 13423,
+		"common": 6
+	},
+	{
+		"name": "cleantalk_updated_1d",
+		"category": "abuse",
+		"ips": 13564,
+		"common": 7
+	},
+	{
+		"name": "cleantalk_updated_30d",
+		"category": "abuse",
+		"ips": 236625,
+		"common": 7
+	},
+	{
+		"name": "cleantalk_updated_7d",
+		"category": "abuse",
+		"ips": 81205,
+		"common": 7
+	},
+	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 17248,
+		"common": 7
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 373547,
+		"common": 7
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 36699,
+		"common": 8
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 415146,
+		"common": 2
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 3747,
+		"common": 4
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346499707,
+		"common": 1
+	},
+	{
+		"name": "normshield_all_attack",
+		"category": "attacks",
+		"ips": 4332,
+		"common": 3
+	},
+	{
+		"name": "normshield_high_attack",
+		"category": "attacks",
+		"ips": 4263,
+		"common": 3
+	}
+]

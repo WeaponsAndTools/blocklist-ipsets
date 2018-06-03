@@ -1,0 +1,20 @@
+[
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 85943981,
+		"common": 4
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762751166,
+		"common": 5308
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346499707,
+		"common": 256
+	}
+]

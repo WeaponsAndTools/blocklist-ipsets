@@ -1,0 +1,16 @@
+{
+	"ipset": "alienvault_reputation",
+	"started": 1434691854000,
+	"updated": 1528003265000,
+	"incomplete": 0,
+	"past": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	},
+	"current": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	}
+}

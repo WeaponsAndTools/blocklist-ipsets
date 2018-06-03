@@ -1,0 +1,16 @@
+{
+	"ipset": "normshield_all_bruteforce",
+	"started": 000,
+	"updated": 1528004878000,
+	"incomplete": 0,
+	"past": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	},
+	"current": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	}
+}

@@ -1,0 +1,26 @@
+[
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 637,
+		"common": 3
+	},
+	{
+		"name": "bi_mail_1_7d",
+		"category": "attacks",
+		"ips": 89,
+		"common": 3
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 85943981,
+		"common": 2
+	},
+	{
+		"name": "lashback_ubl",
+		"category": "spam",
+		"ips": 362438,
+		"common": 2
+	}
+]

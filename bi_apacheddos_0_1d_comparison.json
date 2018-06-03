@@ -1,0 +1,56 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 11799,
+		"common": 20
+	},
+	{
+		"name": "bi_apache_0_1d",
+		"category": "attacks",
+		"ips": 442,
+		"common": 20
+	},
+	{
+		"name": "bi_http_0_1d",
+		"category": "attacks",
+		"ips": 935,
+		"common": 20
+	},
+	{
+		"name": "iblocklist_ads",
+		"category": "organizations",
+		"ips": 814751,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_isp_comcast",
+		"category": "organizations",
+		"ips": 45121536,
+		"common": 10
+	},
+	{
+		"name": "iblocklist_isp_sprint",
+		"category": "organizations",
+		"ips": 6310570,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346499707,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_org_joost",
+		"category": "organizations",
+		"ips": 16779456,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_spider",
+		"category": "reputation",
+		"ips": 802973,
+		"common": 1
+	}
+]

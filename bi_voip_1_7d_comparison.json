@@ -1,0 +1,92 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 11799,
+		"common": 3
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 637,
+		"common": 4
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 5848,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 455,
+		"common": 1
+	},
+	{
+		"name": "bi_asterisk_0_1d",
+		"category": "attacks",
+		"ips": 73,
+		"common": 1
+	},
+	{
+		"name": "bi_asterisk_2_30d",
+		"category": "attacks",
+		"ips": 4,
+		"common": 1
+	},
+	{
+		"name": "bi_sip_0_1d",
+		"category": "attacks",
+		"ips": 17,
+		"common": 2
+	},
+	{
+		"name": "bi_sip_1_7d",
+		"category": "attacks",
+		"ips": 2,
+		"common": 2
+	},
+	{
+		"name": "bi_voip_0_1d",
+		"category": "attacks",
+		"ips": 87,
+		"common": 3
+	},
+	{
+		"name": "bi_voip_2_30d",
+		"category": "attacks",
+		"ips": 4,
+		"common": 1
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 85943981,
+		"common": 2
+	},
+	{
+		"name": "gofferje_sip",
+		"category": "attacks",
+		"ips": 1096651,
+		"common": 1
+	},
+	{
+		"name": "normshield_all_attack",
+		"category": "attacks",
+		"ips": 4332,
+		"common": 1
+	},
+	{
+		"name": "normshield_high_attack",
+		"category": "attacks",
+		"ips": 4263,
+		"common": 1
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 51005,
+		"common": 4
+	}
+]

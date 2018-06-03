@@ -1,0 +1,62 @@
+[
+	{
+		"name": "bbcan177_ms1",
+		"category": "malware",
+		"ips": 5268949,
+		"common": 1
+	},
+	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 6230,
+		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 36699,
+		"common": 1
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 415146,
+		"common": 1
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 3747,
+		"common": 1
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 36052,
+		"common": 1
+	},
+	{
+		"name": "hphosts_fsa",
+		"category": "reputation",
+		"ips": 17930,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227848212,
+		"common": 2
+	},
+	{
+		"name": "ransomware_feed",
+		"category": "malware",
+		"ips": 5016,
+		"common": 1
+	},
+	{
+		"name": "threatcrowd",
+		"category": "malware",
+		"ips": 6431,
+		"common": 1
+	}
+]

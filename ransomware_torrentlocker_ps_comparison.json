@@ -1,0 +1,92 @@
+[
+	{
+		"name": "coinbl_hosts",
+		"category": "organizations",
+		"ips": 2780,
+		"common": 1
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 85943981,
+		"common": 1
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 640470669,
+		"common": 2
+	},
+	{
+		"name": "firehol_webclient",
+		"category": "malware",
+		"ips": 5538,
+		"common": 2
+	},
+	{
+		"name": "hphosts_ats",
+		"category": "organizations",
+		"ips": 14903,
+		"common": 1
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 36052,
+		"common": 2
+	},
+	{
+		"name": "hphosts_fsa",
+		"category": "reputation",
+		"ips": 17930,
+		"common": 1
+	},
+	{
+		"name": "hphosts_mmt",
+		"category": "reputation",
+		"ips": 1005,
+		"common": 1
+	},
+	{
+		"name": "hphosts_pha",
+		"category": "reputation",
+		"ips": 2569,
+		"common": 1
+	},
+	{
+		"name": "hphosts_psh",
+		"category": "reputation",
+		"ips": 42357,
+		"common": 2
+	},
+	{
+		"name": "hphosts_wrz",
+		"category": "reputation",
+		"ips": 1019,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34512268,
+		"common": 1
+	},
+	{
+		"name": "ransomware_feed",
+		"category": "malware",
+		"ips": 5016,
+		"common": 2
+	},
+	{
+		"name": "ransomware_online",
+		"category": "malware",
+		"ips": 72,
+		"common": 2
+	},
+	{
+		"name": "ransomware_rw",
+		"category": "malware",
+		"ips": 300,
+		"common": 2
+	}
+]
